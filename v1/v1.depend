@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555605906 source:d:\3cs\5emepfe\codebut4reuse\productvariants\distributeurautomatique\v1\v1\main.cpp
+	<iostream>
+	"Soda.h"
+
+1555604799 source:d:\3cs\5emepfe\codebut4reuse\productvariants\distributeurautomatique\v1\v1\soda.cpp
+	"Soda.h"
+	<iostream>
+
+1555604361 d:\3cs\5emepfe\codebut4reuse\productvariants\distributeurautomatique\v1\v1\soda.h
+
